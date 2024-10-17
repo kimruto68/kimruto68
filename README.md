@@ -6,8 +6,6 @@ About Me
 🚀 Continuous Learning: Always exploring the latest in cloud technologies and best practices to stay ahead in the rapidly evolving tech landscape.
 📚 Instructor: Sharing my knowledge through AWS training and mentoring, helping others to achieve their cloud goals.
 Featured Projects
-Project Name: A brief description of the project and its impact.
-Project Name: A brief description of the project and its impact.
 Feel free to explore my repositories to see the projects I've been working on. Whether it's cloud infrastructure, serverless applications, or DevOps practices, you'll find a variety of solutions and tutorials to help you on your cloud journey.
 - 📫 How to reach me email: kimruto68@gmail.com
 
